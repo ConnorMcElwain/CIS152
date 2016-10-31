@@ -1,0 +1,54 @@
+.h1, h1{
+   font-weight: bold;
+}
+
+body{
+    background-color: lightgreen;
+}
+p{
+    padding-top: 30px;
+    text-align: right;
+}
+.container{
+    background-color: lightgrey;
+}
+a{
+    color: white;
+    font-size: 20px;
+}
+.menu{
+    background-color:purple;
+    padding: 10px;
+    text-align: center;
+}
+byline{
+    padding-top: 30px;
+    text-align: right;
+}
+.content{
+    padding:10px 20px 10px 20px;
+}
+.top .left p{
+    font-size: 25px;
+    text-align: center;
+    padding: 30px;
+    margin:0px;
+    background-color: lightblue;
+    padding-right:0px;
+}
+.top .right p{
+    font-size: 25px;
+    text-align: center;
+    padding: 30px;
+    margin:0px;
+    background-color: lightblue;
+    padding-right:0px;
+}
+.bot p{
+    font-size: 25px;
+    text-align: center;
+    padding: 30px;
+    margin:0px;
+    background-color: rebeccapurple;
+    padding-right:0px;
+}
