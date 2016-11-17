@@ -1,0 +1,29 @@
+/* 
+  Fill this in
+*/
+code{
+  background: lightgrey;
+  }
+body{
+  background-color:lightgreen;
+  padding: 5px;
+  }
+  .bash code{
+    color: white;
+    text-align: left;
+    padding: 15px;
+    background-color: black;
+  }
+  h1{
+    text-align: left;
+    font-family: Arial;
+  }
+  .p-name{
+    text-align: center;
+  }
+  .author-byline-inside{
+    text-align: center;
+  }
+  .img-npm-init img{
+    border: 15px solid orange;
+  }
