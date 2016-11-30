@@ -154,3 +154,8 @@ a.nav3:hover img {
 a.nav3:hover::after {
     content: url('../img/Nav_Contact_New.png');
 }
+
+iframe#GMaps {
+    margin-left: 10px;
+    border: 1px solid black;
+}
