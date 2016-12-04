@@ -58,6 +58,12 @@ footer {
     padding: 52.5px 0px;
 }
 
+footer#ContactPageOnly {
+    width: 100%;
+    background-image: url('../img/Footer Resized_Contact.png');
+    padding: 52.5px 0px;
+}
+
 .BMenu ul {
     margin-top: 90px;
     padding-left: 350px;
